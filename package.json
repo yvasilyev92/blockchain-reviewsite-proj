@@ -1,0 +1,19 @@
+{
+  "name": "blockchain-reviewsite-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvasilyev92/blockchain-reviewsite-proj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yvasilyev92/blockchain-reviewsite-proj/issues"
+  },
+  "homepage": "https://github.com/yvasilyev92/blockchain-reviewsite-proj#readme"
+}
